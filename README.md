@@ -38,18 +38,18 @@ Performed using **Pandas & NumPy**
 - ✔️ Ensured data consistency
 ## 🗄️ SQL Analysis (PostgreSQL)
 Used SQL to answer key business questions:
-🔍 Key Insights:
-💰 Revenue by Gender
-🎯 High-Spending Discount Users
-⭐ Top 5 Products by Rating
-🚚 Shipping Type vs Spending
-👥 Subscribers vs Non-Subscribers Analysis
-🏷️ Discount-Dependent Products
-🔁 Customer Segmentation:
+**🔍 Key Insights:**
+1. 💰 Revenue by Gender
+2. 🎯 High-Spending Discount Users
+3. ⭐ Top 5 Products by Rating
+4. 🚚 Shipping Type vs Spending
+5. 👥 Subscribers vs Non-Subscribers Analysis
+6. 🏷️ Discount-Dependent Products
+7. 🔁 Customer Segmentation:
     - New
     - Returning
     - Loyal
-🛍️ Top Products per Category
-🔄 Repeat Buyers & Subscription Trends
-📊 Revenue by Age Group
+8. 🛍️ Top Products per Category
+9. 🔄 Repeat Buyers & Subscription Trends
+10. 📊 Revenue by Age Group
 
