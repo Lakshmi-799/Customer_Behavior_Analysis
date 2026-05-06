@@ -98,5 +98,6 @@ Offer exclusive benefits to convert non-subscribers
 - **🛍️ Product Positioning**
 - Promote top-rated and high-performing products
 
- Power point Presentation
-   <img width="1907" height="920" alt="image" src="https://github.com/Lakshmi-799/Customer_Behavior_Analysis/blob/main/Customer-Shopping-Behavior-Analysis%20ppt.pdf" />
+## 📢 Final Note
+
+This project demonstrates how raw transactional data can be transformed into meaningful insights and strategic recommendations, showcasing real-world data analytics workflow from data cleaning → analysis → visualization → business impact.
