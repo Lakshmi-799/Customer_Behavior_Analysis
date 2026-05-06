@@ -63,7 +63,7 @@ Built an interactive dashboard to visualize insights:
 - Total Customers
 - Average Purchase
 - Average Rating
-- 
+
 **Filters:**
   
 - Subscription Status
@@ -77,4 +77,26 @@ Built an interactive dashboard to visualize insights:
 - Sales by Category
 - Subscription Distribution
 - Shipping vs Spending
-  <img width="1907" height="920" alt="image" src="https://github.com/Lakshmi-799/QuickBite-Express-Crisis-Impact-and-Recovery-Analysis/blob/main/home.png" />
+  <img width="1907" height="920" alt="image" src="https://github.com/Lakshmi-799/Customer_Behavior_Analysis/blob/main/Screenshot%20(51).png" />
+
+## 💡 Key Business Insights
+- **🚚 Express shipping users spend more** → Opportunity for upselling
+- 📉 Only **27% customers are subscribed** → High growth potential
+- 💸 Discount-heavy products impact margins significantly
+- 👥 Majority customers are **Loyal (≈80%)**
+- 🎯 **Young Adults generate highest revenue**
+  🚀 Business Recommendations
+## 🎯 Boost Subscriptions
+Offer exclusive benefits to convert non-subscribers
+
+- **🏆 Customer Loyalty Programs**
+- Reward repeat customers to increase retention
+- **💰 Optimize Discount Strategy**
+- Balance between sales growth and profitability
+- **📢 Targeted Marketing**
+- Focus on high-value age groups and frequent buyers
+- **🛍️ Product Positioning**
+- Promote top-rated and high-performing products
+
+ Power point Presentation
+   <img width="1907" height="920" alt="image" src="https://github.com/Lakshmi-799/Customer_Behavior_Analysis/blob/main/Customer-Shopping-Behavior-Analysis%20ppt.pdf" />
