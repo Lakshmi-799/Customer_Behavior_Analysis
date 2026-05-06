@@ -38,6 +38,7 @@ Performed using **Pandas & NumPy**
 - ✔️ Ensured data consistency
 ## 🗄️ SQL Analysis (PostgreSQL)
 Used SQL to answer key business questions:
+
 **🔍 Key Insights:**
 1. 💰 Revenue by Gender
 2. 🎯 High-Spending Discount Users
