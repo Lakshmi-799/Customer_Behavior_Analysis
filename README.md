@@ -58,16 +58,21 @@ Used SQL to answer key business questions:
 Built an interactive dashboard to visualize insights:
 
 **📌 Key Features:**
+
 **KPI Cards:**
 - Total Customers
 - Average Purchase
 - Average Rating
+- 
 **Filters:**
+  
 - Subscription Status
 - Gender
 - Category
 - Shipping Type
+- 
 **📊 Visualizations:**
+  
 - Revenue by Age Group
 - Sales by Category
 - Subscription Distribution
