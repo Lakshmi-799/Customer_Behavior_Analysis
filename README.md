@@ -12,7 +12,7 @@ This project analyzes customer shopping behavior using transactional data from 3
 The goal is to transform raw data into business-driven insights that can support strategic decision-making in retail/e-commerce environments.
 
 ## 📊 Dataset Summary
-**📦 Total Records**: 3,900 transactions
+**📦 Total Records**: 4000 transactions
 
  **📑 Features**: 18 columns
  
