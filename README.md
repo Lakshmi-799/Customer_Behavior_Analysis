@@ -53,4 +53,23 @@ Used SQL to answer key business questions:
 8. 🛍️ Top Products per Category
 9. 🔄 Repeat Buyers & Subscription Trends
 10. 📊 Revenue by Age Group
+## 📈 Power BI Dashboard
 
+Built an interactive dashboard to visualize insights:
+
+**📌 Key Features:**
+**KPI Cards:**
+- Total Customers
+- Average Purchase
+- Average Rating
+**Filters:**
+- Subscription Status
+- Gender
+- Category
+- Shipping Type
+**📊 Visualizations:**
+- Revenue by Age Group
+- Sales by Category
+- Subscription Distribution
+- Shipping vs Spending
+  <img width="1907" height="920" alt="image" src="https://github.com/Lakshmi-799/QuickBite-Express-Crisis-Impact-and-Recovery-Analysis/blob/main/home.png" />
